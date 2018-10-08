@@ -1,4 +1,4 @@
-package dao
+package v1.wager
 
 import javax.inject.Inject
 import org.mongodb.scala._

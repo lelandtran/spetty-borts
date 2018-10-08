@@ -1,9 +1,8 @@
-package controllers
+package v1.wager
 
 import javax.inject.Inject
 import play.api.libs.json.Json
 import play.api.mvc._
-import service.WagerService
 
 import scala.concurrent.ExecutionContext
 

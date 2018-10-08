@@ -1,6 +1,5 @@
-package service
+package v1.wager
 
-import dao.WagerDao
 import javax.inject.Inject
 import org.mongodb.scala.Document
 
